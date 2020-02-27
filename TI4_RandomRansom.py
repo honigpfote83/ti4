@@ -13,9 +13,9 @@ import random as rd
 
 
 #Daten aus Rassenübersicht einlesen
-df = pd.read_csv("F:/Users/Alain/Documents/ti4_rassenuebersicht.csv", sep=";")
+df = pd.read_csv("ti4_rassenuebersicht.csv", sep=";")
 #Technologie-Typologien einlesen
-tech = pd.read_csv("F:/Users/Alain/Documents/ti4_techs.csv", sep=";")
+tech = pd.read_csv("ti4_techs.csv", sep=";")
 
 
 # In[3]:
